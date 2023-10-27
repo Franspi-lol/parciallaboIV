@@ -1,0 +1,5 @@
+table{
+    background-color: aquamarine;
+    border: 5px solid;
+    border-image: url(bordeVioleta120trans.png) 30 30 repeat;
+}
